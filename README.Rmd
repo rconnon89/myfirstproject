@@ -9,5 +9,5 @@ At this point in time, key aspects of the package are:
 
 ## Install this package
 ```{r}
-devtools::install.package("rconnon89/myfirstpackage")
+devtools::install_github("rconnon89/myfirstpackage")
 ```
