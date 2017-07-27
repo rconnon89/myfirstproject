@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # myFirstPkg overview
+=======
+# myFirstPkg readme
+>>>>>>> 1fe0a4aea00325c7905ebf01d27382af4ded102d
 
 [![Build Status](https://travis-ci.org/rconnon89/myfirstproject.svg?branch=master)](https://travis-ci.org/rconnon89/myfirstproject)
 
