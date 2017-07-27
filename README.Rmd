@@ -1,11 +1,13 @@
-# 
+# myFirstPkg
 
-The goal of  is to ...
+myFirstPkg is designed to help me make my first steps as an awesome package developer. Steph says it'll make me in the top 5% of devs **EVERYWHERE**!
 
-## Example
+## Core functionality
+At this point in time, key aspects of the package are:
 
-This is a basic example which shows you how to solve a common problem:
+- `circleArea` for calculating the area of a circle given the radius
 
-``` r
-## basic example code
+## Install this package
+```{r}
+devtools::install.package("rconnon89/myfirstpackage")
 ```
