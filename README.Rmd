@@ -1,5 +1,7 @@
 # myFirstPkg
 
+[![Build Status](https://travis-ci.org/rconnon89/myfirstproject.svg?branch=master)](https://travis-ci.org/rconnon89/myfirstproject)
+
 myFirstPkg is designed to help me make my first steps as an awesome package developer. Steph says it'll make me in the top 5% of devs **EVERYWHERE**!
 
 ## Core functionality
