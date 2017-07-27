@@ -1,9 +1,9 @@
 Package: myFirstPkg
-Title: What the Package Does (one line, title case)
-Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
-Depends: R (>= 3.4.1)
+Title: Explores basic R functionality
+Version: 0.0.1
+Authors@R: person("Roisin", "Connon", email = "roisin.connon@cancer.org.uk", role = c("aut", "cre"))
+Description: Helps me practice writing R functions, distributing datasets and generally being awesome.
+Depends: R (>= 3.0.0)
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
@@ -12,3 +12,5 @@ Suggests: covr,
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+Imports: optiRum
+RoxygenNote: 6.0.1
